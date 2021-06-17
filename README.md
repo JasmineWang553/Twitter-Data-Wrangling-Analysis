@@ -7,13 +7,11 @@
 ![alt text](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg)
 
 ## Project Details
-Your tasks in this project are as follows:
-
-1. Data Wrangling
+1. **Data Wrangling**
 - Gathering data
 - Assessing data
 - Cleaning data
-2. Data Analyzing
+2. **Data Analyzing**
 - Storing, analyzing, and visualizing your wrangled data
 
 Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
