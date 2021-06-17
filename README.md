@@ -8,10 +8,12 @@
 
 ## Project Details
 1. **Data Wrangling**
+<ls>
 - Gathering data
 - Assessing data
 - Cleaning data
-2. **Data Analyzing**
+</ls>
+3. **Data Analyzing**
 - Storing, analyzing, and visualizing your wrangled data
 
 Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
